@@ -87,7 +87,7 @@ export const BannerBox = styled.div`
 
 export const TitleText = styled.span`
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   color: ${theme.palette.secondary.contrastText};
